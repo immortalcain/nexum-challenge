@@ -44,7 +44,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Sharing your solution
 
-Share your **#finished projects** solution page in the zip, url, or git link of the [human resources](contact.hr@nexum.com.tr). 
+Share your **#finished projects** solution page in the zip, url, or git link of the [human resources](mailto:contact.hr@nexum.com.tr). 
 
 If you have more detailed questions, please feel free to contact us.
 **Have fun building!** 🚀
